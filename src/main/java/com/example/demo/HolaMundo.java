@@ -8,6 +8,6 @@ public class HolaMundo {
 
     @RequestMapping("/") //Indica que se ejecuta este metodo cuando visitamos la raiz
     public String hola(){
-        return "hola mundo";
+        return "hola mundo ";
     }
 }
